@@ -1,5 +1,4 @@
 # -Basic-Calculator-with-Error-Handling-
-# Basic Calculator with Error Handling
 
 def calculator():
     print("=== Basic Calculator ===")
@@ -55,5 +54,7 @@ def calculator():
 calculator()
 
 #ouput:
+
+<img width="1060" height="835" alt="Image" src="https://github.com/user-attachments/assets/1f1b1843-00d9-4d94-90db-e62870fd88b6" />
 
 
